@@ -1,0 +1,15 @@
+[
+ {
+  "directory": "/home/astaroth/Documents/WebServer",
+  "arguments": [
+   "cc",
+   "./src/main.c",
+   "-I",
+   "./include",
+   "-c",
+   "-o",
+   "objs/main.o"
+  ],
+  "file": "./src/main.c"
+ }
+]
